@@ -24,12 +24,12 @@ Installation
           * Reinstall Python using Homebrew:
           brew reinstall python
 
-         * Create and Activate a Virtual Environment:
-         python3 -m venv myenv
-         source myenv/bin/activate
+          * Create and Activate a Virtual Environment:
+          python3 -m venv myenv
+          source myenv/bin/activate
 
-         * Install setuptools:
-         pip install setuptools
+          * Install setuptools:
+          pip install setuptools
 
 Usage
          1. Start the Assistant:
