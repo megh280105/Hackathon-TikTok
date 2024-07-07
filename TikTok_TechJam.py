@@ -123,7 +123,7 @@ if ans == "yes":
             print("                                                     ")
 
             # Then it asks the user if they would want to summarize the call
-            sum = input("Would you like to summarize your call?")
+            sum = input("Would you like to summarize your call? ")
 
             # If their response is yes, then it takes text from the specified file and summarizes it
             if sum.lower() == "yes":
