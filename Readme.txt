@@ -60,26 +60,3 @@ Dependencies
             * random
             * re
             * datetime
-
-Installation:
-            pip install transformers
-            pip install speech_recognition
-            pip install pyttsx3
-            pip install better_profanity
-            if any error pops up:
-            xcode-select --install
-            
-            # Update Homebrew
-            brew update
-            
-            # Reinstall Python using Homebrew
-            brew reinstall python
-            
-            # Create a new virtual environment
-            python3 -m venv myenv
-            
-            # Activate the new virtual environment
-            source myenv/bin/activate
-            
-            # Install setuptools which includes distutils
-            pip install setuptools
